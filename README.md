@@ -30,6 +30,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSfxcMV1pW5UwaiuK6bvAkl1JFsotcfDpGWeUNWc
 
 **Github :**
 
+https://github.com/prachi-kamboj
+
 **Linkedin :**
 
+www.linkedin.com/in/prachikamboj566
+
 **Kaggle :**
+
+https://www.kaggle.com/prachikamboj
