@@ -18,3 +18,6 @@ UPI & Financial Safety:
 2. Always verify the receiver’s UPI ID/name before sending money—scammers often use similar names.
 3. Do NOT scan random QR codes to “receive money” (you actually send money).
 4. Immediately report any fraud to your bank and authorities—speed can help freeze transactions.
+
+🌐 Report online at: National Cyber Crime Reporting Portal (cybercrime.gov.in)
+📞 Call Helpline 1930 (24×7) for immediate help with financial fraud.
