@@ -1,4 +1,4 @@
-# Digital Literacy Project
+# 💻✨ DIGITAL LITERACY PROJECT REPORT ✨💻
 
 **Name :** Prachi Kamboj  
 **Reg No. :** 25BAI10874  
