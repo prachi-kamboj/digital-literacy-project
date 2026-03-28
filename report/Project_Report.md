@@ -18,7 +18,6 @@ It highlights key aspects such as:
 - 🔒 staying safe on the internet
 #
 
-
 I also included sections on useful digital tools, safe internet practices, email etiquette, and building a positive online presence.
 
 The design uses bold headings, icons, and contrasting colors to make the content clear and attractive.
@@ -55,7 +54,7 @@ Kaggle is a platform specially made for data science and machine learning.
 It provides datasets, notebooks, and competitions that help students improve their practical skills.
 
 I chose Kaggle because it gives hands-on experience in machine learning.
-
+#
 Over the next four years, I plan to use:
 
 - 💻 GitHub for uploading projects
