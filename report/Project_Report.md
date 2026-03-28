@@ -1,8 +1,8 @@
-💻✨ DIGITAL LITERACY PROJECT REPORT ✨💻
+# 💻✨ DIGITAL LITERACY PROJECT REPORT ✨💻
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-📌 TASK 1 – CREATE A DIGITAL LITERACY AWARENESS INFOGRAPHIC
+## 📌 TASK 1 – CREATE A DIGITAL LITERACY AWARENESS INFOGRAPHIC
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
@@ -34,20 +34,20 @@ Overall, this project helped me understand both digital literacy concepts and ba
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-💻 TASK 2 – BUILD YOUR STUDENT DIGITAL PORTFOLIO
+## 💻 TASK 2 – BUILD YOUR STUDENT DIGITAL PORTFOLIO
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 I chose GitHub, LinkedIn, and Kaggle, which are very useful platforms for students in the field of Artificial Intelligence and Machine Learning.
 
-💻 GitHub
+### 💻 GitHub
 
 GitHub is a platform used to store, manage, and share coding projects.
 It is mainly used for version control and collaboration.
 
 I chose GitHub because it will help me save my Python and AI/ML projects in an organized way and also create a portfolio of my work.
 
-💼 LinkedIn
+### 💼 LinkedIn
 
 LinkedIn is a professional networking platform.
 It is used to connect with teachers, professionals, and companies.
@@ -55,7 +55,7 @@ It is used to connect with teachers, professionals, and companies.
 It also helps in finding internships and job opportunities.
 I chose LinkedIn because it will help me build my professional profile and stay connected with the industry.
 
-📊 Kaggle
+### 📊 Kaggle
 
 Kaggle is a platform specially made for data science and machine learning.
 It provides datasets, notebooks, and competitions that help students improve their practical skills.
@@ -72,11 +72,11 @@ This will help improve my knowledge and career opportunities.
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🧠 TASK 3 – EXPLORE CODING AND COLLABORATION PLATFORMS
+## 🧠 TASK 3 – EXPLORE CODING AND COLLABORATION PLATFORMS
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🖥️ PART A – Coding Practice
+### 🖥️ PART A – Coding Practice
 
 HackerRank is an online platform used for coding practice and skill development.
 
@@ -91,7 +91,7 @@ I chose HackerRank because it helps me improve my coding skills through regular 
 
 As an AI/ML student, strong programming skills are very important, and this platform helps in building logical thinking 🧠.
 
-📝 PART B – Google Workspace Collaboration
+### 📝 PART B – Google Workspace Collaboration
 
 Google Forms is a tool used for creating surveys, quizzes, and feedback forms 📋.
 
@@ -103,13 +103,13 @@ I chose Google Forms because it is simple to use and very effective for educatio
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-💬 TASK 4 – DRAFT A PROFESSIONAL EMAIL & ETIQUETTE GUIDE
+## 💬 TASK 4 – DRAFT A PROFESSIONAL EMAIL & ETIQUETTE GUIDE
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🖥️ PART A – Write two professional emails
+### 🖥️ PART A – Write two professional emails
 
-📋 Part B – Create a Social Media Do's and Don'ts checklist
+### 📋 PART B – Create a Social Media Do's and Don'ts checklist
 
 Poor digital communication can create serious misunderstandings and problems.
 
@@ -129,13 +129,13 @@ Clear communication, proper wording, and confirmation can help avoid such issues
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🔐 TASK 5 – CYBERCRIME AWARENESS CASE STUDY & PREVENTION GUIDE
+## 🔐 TASK 5 – CYBERCRIME AWARENESS CASE STUDY & PREVENTION GUIDE
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-💬 PART A - Case Study
+### 💬 PART A - Case Study
 
-🧩 PART B - Prevention Guide
+### 🧩 PART B - Prevention Guide
 
 While researching online safety, what surprised me the most was how easily cybercriminals can trick students through simple methods like:
 
