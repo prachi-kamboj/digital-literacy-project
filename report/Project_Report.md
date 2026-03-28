@@ -1,4 +1,4 @@
-# 💻✨ DIGITAL LITERACY PROJECT REPORT ✨💻
+# 👩🏻‍💻 DIGITAL LITERACY PROJECT REPORT 👩🏻‍💻
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
