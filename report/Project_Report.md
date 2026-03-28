@@ -129,9 +129,13 @@ Clear communication, proper wording, and confirmation can help avoid such issues
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🔐 TASK 5 – ONLINE SAFETY REFLECTION
+🔐 TASK 5 – CYBERCRIME AWARENESS CASE STUDY & PREVENTION GUIDE
 
 ━━━━━━━━━━━━━━━━━━━━━━
+
+💬 PART A - Case Study
+
+🧩 PART B - Prevention Guide
 
 While researching online safety, what surprised me the most was how easily cybercriminals can trick students through simple methods like:
 
