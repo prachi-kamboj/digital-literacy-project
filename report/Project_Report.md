@@ -29,6 +29,7 @@ However, it was also interesting to experiment with different layouts and color 
 
 Overall, this project helped me understand both digital literacy concepts and basic design principles.
 
+
 ## 💻 TASK 2 – BUILD YOUR STUDENT DIGITAL PORTFOLIO
 
 I chose GitHub, LinkedIn, and Kaggle, which are very useful platforms for students in the field of Artificial Intelligence and Machine Learning.
@@ -63,6 +64,7 @@ Over the next four years, I plan to use:
 
 This will help improve my knowledge and career opportunities.
 
+
 ## 🧠 TASK 3 – EXPLORE CODING AND COLLABORATION PLATFORMS
 
 ### 🖥️ PART A – Coding Practice
@@ -90,6 +92,7 @@ It allows easy creation of multiple choice and short answer questions and automa
 
 I chose Google Forms because it is simple to use and very effective for educational purposes.
 
+
 ## 💬 TASK 4 – DRAFT A PROFESSIONAL EMAIL & ETIQUETTE GUIDE
 
 ### 🖥️ PART A – Write two professional emails
@@ -111,6 +114,7 @@ This situation could have been handled differently by writing the message in a c
 The sender should also double-check the details and ask group members to confirm that they have understood the message.
 
 Clear communication, proper wording, and confirmation can help avoid such issues.
+
 
 ## 🔐 TASK 5 – CYBERCRIME AWARENESS CASE STUDY & PREVENTION GUIDE
 
