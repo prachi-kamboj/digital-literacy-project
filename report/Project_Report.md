@@ -44,5 +44,25 @@ I chose Google Forms because it is simple to use and very effective for educatio
 
 TASK 4
 
-PART A
+PART B
 
+Poor digital communication can create serious misunderstandings and problems. One common example is in a college group project.
+Suppose one team member sends an important message in the class WhatsApp group about the submission deadline, but writes it in a confusing way, such as mentioning the wrong date or not clearly stating the time. 
+
+As a result, some students may submit their part late, causing the entire project to be delayed or even receive lower marks. This problem happens because the message was not clear and specific.
+
+This situation could have been handled differently by writing the message in a simple and direct format, for example: “Project submission deadline: 28 March, 5:00 PM.” The sender should also double-check the details before sending and ask group members to confirm that they have read and understood the message. 
+
+Clear communication, proper wording, and confirmation can help avoid such issues.
+
+TASK 5
+
+PART B
+
+While researching online safety, what surprised me the most was how easily cybercriminals can trick students through simple methods like fake links, phishing emails, and UPI collect requests. 
+
+I was especially surprised to learn that many people lose money just by scanning a QR code or sharing an OTP without realizing the risk. It made me understand that cyber fraud often happens because of small mistakes and lack of awareness rather than advanced hacking. 
+
+As a result, one habit I will personally change is being more careful before clicking on any link or responding to messages related to payments. I will always verify the sender, check the UPI ID before making transactions, and never share OTPs or personal details with anyone. 
+
+This research has made me more aware and responsible about my digital safety.
