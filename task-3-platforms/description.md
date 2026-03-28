@@ -1,15 +1,1 @@
-HackerRank is an online platform used for coding practice and skill development. 
 
-It provides programming questions on topics like Python, problem-solving, data structures, and algorithms. 
-
-I chose HackerRank because it helps me improve my coding skills through regular practice and prepares me for technical tests and placements. 
-
-As an AI/ML student, strong programming skills are very important, and this platform helps in building logical thinking.
-
-Google Forms is a tool used for creating surveys, quizzes, and feedback forms. 
-
-For this project, I used it to create a Digital Literacy Awareness Quiz for my batchmates. 
-
-It allows easy creation of multiple choice and short answer questions and automatically collects responses in an organized way.
-
-I chose Google Forms because it is simple to use and very effective for educational purposes.
