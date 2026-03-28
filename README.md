@@ -8,9 +8,9 @@
 # 
 
 - **Task 1:** Create a Digital Literacy Awareness Infographic
-- 
+ 
 - **Task 2:** Build Your Student Digital Portfolio
-- 
+  
 - **Task 3:** Explore Coding & Collaboration Platforms
   1. **Part A –** Coding Practice
   2. **Part B –** Google Workspace Collaboration
