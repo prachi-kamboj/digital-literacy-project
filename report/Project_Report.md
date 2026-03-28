@@ -15,11 +15,11 @@ My poster focuses on the concept of digital literacy and its importance for stud
 
 It highlights key aspects such as:
 
--🔍 finding reliable information
--📚 evaluating sources
--✍️ creating ethical content
--💬 communicating effectively online
--🔒 staying safe on the internet
+- 🔍 finding reliable information
+- 📚 evaluating sources
+- ✍️ creating ethical content
+- 💬 communicating effectively online
+- 🔒 staying safe on the internet
 
 I also included sections on useful digital tools, safe internet practices, email etiquette, and building a positive online presence.
 
@@ -64,9 +64,9 @@ I chose Kaggle because it gives hands-on experience in machine learning.
 
 Over the next four years, I plan to use:
 
--💻 GitHub for uploading projects
--💼 LinkedIn for building professional connections
--📊 Kaggle for practicing AI/ML skills
+- 💻 GitHub for uploading projects
+- 💼 LinkedIn for building professional connections
+- 📊 Kaggle for practicing AI/ML skills
 
 This will help improve my knowledge and career opportunities.
 
@@ -82,10 +82,10 @@ HackerRank is an online platform used for coding practice and skill development.
 
 It provides programming questions on topics like:
 
--🐍 Python
--🧩 problem-solving
--🗃️ data structures
--⚙️ algorithms
+- 🐍 Python
+- 🧩 problem-solving
+- 🗃️ data structures
+- ⚙️ algorithms
 
 I chose HackerRank because it helps me improve my coding skills through regular practice and prepares me for technical tests and placements.
 
@@ -139,9 +139,9 @@ Clear communication, proper wording, and confirmation can help avoid such issues
 
 While researching online safety, what surprised me the most was how easily cybercriminals can trick students through simple methods like:
 
--🔗 fake links
--📧 phishing emails
--💸 UPI collect requests
+- 🔗 fake links
+- 📧 phishing emails
+- 💸 UPI collect requests
 
 I was especially surprised to learn that many people lose money just by scanning a QR code or sharing an OTP without realizing the risk.
 
@@ -151,9 +151,9 @@ As a result, one habit I will personally change is being more careful before cli
 
 I will always:
 
--✅ verify the sender
--💸 check the UPI ID
--🚫 never share OTPs
--🔒 protect personal details
+- ✅ verify the sender
+- 💸 check the UPI ID
+- 🚫 never share OTPs
+- 🔒 protect personal details
 
 This research has made me more aware, responsible, and digitally safe.
