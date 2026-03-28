@@ -1,7 +1,7 @@
 Cyber scams in India often involve fake calls, phishing links, or UPI fraud. 
 Staying alert and verifying everything twice can prevent most attacks.
 
-#General Online Safety:
+General Online Safety:
 
 1. Use strong, unique passwords for each account (mix of letters, numbers, symbols).
 2. Enable two-factor authentication (2FA) on email, social media, and banking apps.
@@ -12,7 +12,7 @@ Staying alert and verifying everything twice can prevent most attacks.
 7. Check app permissions before installing—avoid suspicious APK files or unofficial apps.
 8. Think before posting—limit personal information (college, address, phone number) on social media.
 
-#UPI & Financial Safety:
+UPI & Financial Safety:
 
 1. Never approve “Collect Requests” on UPI apps unless you initiated the payment yourself.
 2. Always verify the receiver’s UPI ID/name before sending money—scammers often use similar names.
