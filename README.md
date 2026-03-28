@@ -5,11 +5,8 @@
 **University :** VIT Bhopal University
 **Branch :** B.Tech. CSE AI ML  
 **Year :** 2025-29
-
-
-
-This repository contains my Digital Literacy project submitted for CSE0001 at VIT Bhopal University.
-
+# 
+This repository contains my Digital Literacy [CSE0001] Project.
 
 - **Task 1:** Create a Digital Literacy Awareness Infographic
 - **Task 2:** Build Your Student Digital Portfolio
